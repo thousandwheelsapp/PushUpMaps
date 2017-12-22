@@ -45,6 +45,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     }
     public void Modulo()
     {
-        int i;
+        int j = 0;
     }
 }
